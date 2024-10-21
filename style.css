@@ -12,6 +12,10 @@ section{
     justify-content: center;
 }
 
+div{
+    margin-right: 20px;
+}
+
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px
