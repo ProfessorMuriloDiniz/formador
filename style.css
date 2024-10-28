@@ -25,3 +25,9 @@ header {
 img {
     height: 200px;
 }
+
+.categoria-videos {
+    display: flex;
+    overflow-x: autio;
+    gap: 10px;
+}
