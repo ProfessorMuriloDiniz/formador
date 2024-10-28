@@ -28,6 +28,6 @@ img {
 
 .categoria-videos {
     display: flex;
-    overflow-x: autio;
+    overflow-x: auto;
     gap: 10px;
 }
