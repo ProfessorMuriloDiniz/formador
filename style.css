@@ -1,8 +1,8 @@
-.body{
+body{
     color: white;
     background: black;
     margin: 0px;
-    font-family: "Sour Gummy"; sans-serif;
+    font-family: "Sour Gummy", sans-serif;
 }
 
 .chamada {
