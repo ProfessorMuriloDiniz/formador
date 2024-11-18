@@ -2,7 +2,7 @@ body{
     color: white;
     background: black;
     margin: 0px;
-    font-family: "Barriecito-regular"; sans-serif;
+    font-family: "Sour Gummy"; sans-serif;
     
 }
 
@@ -40,6 +40,15 @@ img {
     background: rgb(181, 201, 2);
 }
 
+
+.sour-gummy-<uniquifier> {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
 
 h1 {
     font-size: 40px;
